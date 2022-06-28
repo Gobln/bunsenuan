@@ -1,0 +1,19 @@
+
+
+
+deb http://deb.devuan.org/merged chimaera main non-free contrib 
+deb-src http://deb.devuan.org/merged chimaera main non-free contrib 
+
+# chimaera-security, previously known as 'volatile'
+deb http://deb.devuan.org/merged chimaera-security main contrib non-free 
+deb-src http://deb.devuan.org/merged chimaera-security main contrib non-free 
+
+# chimaera-updates, previously known as 'volatile'
+deb http://deb.devuan.org/merged chimaera-updates main contrib non-free 
+deb-src http://deb.devuan.org/merged chimaera-updates main contrib non-free 
+
+deb http://pkg.bunsenlabs.org/debian/ beryllium main 
+
+## chimaera-backports, previously on backports.debian.org
+# deb http://deb.devuan.org/merged chimaera-backports main contrib non-free 
+# deb-src http://deb.devuan.org/merged chimaera-backports main contrib non-free 
